@@ -52,7 +52,7 @@ jobs:
         run: |
           # File and expected Python requirement
           file="octofit-tracker/backend/requirements.txt"
-          keyphrase="Django==4.1"
+          keyphrase="Django==5.2"
 
           # Fail the workflow if the file content is missing
           if ! grep -q "$keyphrase" "$file"; then
