@@ -2,5 +2,8 @@
 # Add Django and other required packages here
 Django==5.2
 djangorestframework==3.16.0
+djongo5==1.3.9
 pymongo==4.13.1
 django-cors-headers==4.7.0
+pytest==8.4.0
+pytest-django==4.11.1
