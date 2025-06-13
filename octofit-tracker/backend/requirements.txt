@@ -1,0 +1,6 @@
+# Requirements for OctoFit Tracker backend
+# Add Django and other required packages here
+Django
+djangorestframework
+pymongo
+django-cors-headers
